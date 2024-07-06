@@ -1,0 +1,14 @@
+.cataloge{
+    background-color: aliceblue;
+}
+
+.catalog h1{
+    color: aqua;
+    text-align: center;
+    margin: 0 0 12 px 0;
+
+}
+
+.catalog .filter button{
+    margin-right: 5px;
+}
